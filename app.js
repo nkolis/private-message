@@ -1,4 +1,4 @@
-const base_url = 'http://13.250.204.122:5000/messages';
+const base_url = '//13.250.204.122:5000/messages';
 
 // Example starter JavaScript for disabling form submissions if there are invalid fields
 (function () {
